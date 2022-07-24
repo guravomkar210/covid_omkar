@@ -1,0 +1,90 @@
+.input-taker{
+    margin: 20px;
+}
+#heading__one{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin-top: 10px;
+}
+#heading__two{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 10px;
+
+}
+
+.input__taker{
+    border-radius: 5px;
+    width: 300px;
+    
+}
+.search__button{
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 125px;
+    background-color: rgb(191, 125, 54);
+    font-size: 18px;
+}
+#first{
+    margin-top: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#second{
+    margin-top: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#third{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#fourth{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#fifth{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#seventh{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#sixth{
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#cc1{
+    background-color: #c9ed4a;
+}
+#cc2{
+    background-color: #c9ed4a;
+}
+#cc3{
+    background-color: #c9ed4a;
+}
+#cc4{
+    background-color: #c9ed4a;
+}
+#cc5{
+    background-color: #c9ed4a;
+}
+#cc6{
+    background-color: #c9ed4a;
+}
+#cc7{
+    background-color: #c9ed4a;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+@media only screen and (max-width: 600px) {
+    button {
+     margin-top: 5px;
+    }
+  }
